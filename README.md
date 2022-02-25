@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sonins's github stats](https://github-readme-stats.vercel.app/api?username=Sonins&theme=monokai&show_icons=true)](https://github.com/Sonins)
+[![Sonins's github stats](https://github-readme-stats.vercel.app/api?username=Sonins&theme=tokyonight&show_icons=true)](https://github.com/Sonins)
